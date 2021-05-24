@@ -1,186 +1,186 @@
-State,month,0
-Andaman and Nicobar Islands,01,16
-Andaman and Nicobar Islands,02,28
-Andaman and Nicobar Islands,03,31
-Andaman and Nicobar Islands,04,30
-Andaman and Nicobar Islands,05,15
-Andhra Pradesh,01,16
-Andhra Pradesh,02,28
-Andhra Pradesh,03,31
-Andhra Pradesh,04,30
-Andhra Pradesh,05,15
-Arunachal Pradesh,01,16
-Arunachal Pradesh,02,28
-Arunachal Pradesh,03,31
-Arunachal Pradesh,04,30
-Arunachal Pradesh,05,15
-Assam,01,16
-Assam,02,28
-Assam,03,31
-Assam,04,30
-Assam,05,15
-Bihar,01,16
-Bihar,02,28
-Bihar,03,31
-Bihar,04,30
-Bihar,05,15
-Chandigarh,01,16
-Chandigarh,02,28
-Chandigarh,03,31
-Chandigarh,04,30
-Chandigarh,05,15
-Chhattisgarh,01,16
-Chhattisgarh,02,28
-Chhattisgarh,03,31
-Chhattisgarh,04,30
-Chhattisgarh,05,15
-Dadra and Nagar Haveli and Daman and Diu,01,16
-Dadra and Nagar Haveli and Daman and Diu,02,28
-Dadra and Nagar Haveli and Daman and Diu,03,31
-Dadra and Nagar Haveli and Daman and Diu,04,30
-Dadra and Nagar Haveli and Daman and Diu,05,15
-Delhi,01,16
-Delhi,02,28
-Delhi,03,31
-Delhi,04,30
-Delhi,05,15
-Goa,01,16
-Goa,02,28
-Goa,03,31
-Goa,04,30
-Goa,05,15
-Gujarat,01,16
-Gujarat,02,28
-Gujarat,03,31
-Gujarat,04,30
-Gujarat,05,15
-Haryana,01,16
-Haryana,02,28
-Haryana,03,31
-Haryana,04,30
-Haryana,05,15
-Himachal Pradesh,01,16
-Himachal Pradesh,02,28
-Himachal Pradesh,03,31
-Himachal Pradesh,04,30
-Himachal Pradesh,05,15
-India,01,16
-India,02,28
-India,03,31
-India,04,30
-India,05,15
-Jammu and Kashmir,01,16
-Jammu and Kashmir,02,28
-Jammu and Kashmir,03,31
-Jammu and Kashmir,04,30
-Jammu and Kashmir,05,15
-Jharkhand,01,16
-Jharkhand,02,28
-Jharkhand,03,31
-Jharkhand,04,30
-Jharkhand,05,15
-Karnataka,01,16
-Karnataka,02,28
-Karnataka,03,31
-Karnataka,04,30
-Karnataka,05,15
-Kerala,01,16
-Kerala,02,28
-Kerala,03,31
-Kerala,04,30
-Kerala,05,15
-Ladakh,01,16
-Ladakh,02,28
-Ladakh,03,31
-Ladakh,04,30
-Ladakh,05,15
-Lakshadweep,01,16
-Lakshadweep,02,28
-Lakshadweep,03,31
-Lakshadweep,04,30
-Lakshadweep,05,15
-Madhya Pradesh,01,16
-Madhya Pradesh,02,28
-Madhya Pradesh,03,31
-Madhya Pradesh,04,30
-Madhya Pradesh,05,15
-Maharashtra,01,16
-Maharashtra,02,28
-Maharashtra,03,31
-Maharashtra,04,30
-Maharashtra,05,15
-Manipur,01,16
-Manipur,02,28
-Manipur,03,31
-Manipur,04,30
-Manipur,05,15
-Meghalaya,01,16
-Meghalaya,02,28
-Meghalaya,03,31
-Meghalaya,04,30
-Meghalaya,05,15
-Mizoram,01,16
-Mizoram,02,28
-Mizoram,03,31
-Mizoram,04,30
-Mizoram,05,15
-Nagaland,01,16
-Nagaland,02,28
-Nagaland,03,31
-Nagaland,04,30
-Nagaland,05,15
-Odisha,01,16
-Odisha,02,28
-Odisha,03,31
-Odisha,04,30
-Odisha,05,15
-Puducherry,01,16
-Puducherry,02,28
-Puducherry,03,31
-Puducherry,04,30
-Puducherry,05,15
-Punjab,01,16
-Punjab,02,28
-Punjab,03,31
-Punjab,04,30
-Punjab,05,15
-Rajasthan,01,16
-Rajasthan,02,28
-Rajasthan,03,31
-Rajasthan,04,30
-Rajasthan,05,15
-Sikkim,01,16
-Sikkim,02,28
-Sikkim,03,31
-Sikkim,04,30
-Sikkim,05,15
-Tamil Nadu,01,16
-Tamil Nadu,02,28
-Tamil Nadu,03,31
-Tamil Nadu,04,30
-Tamil Nadu,05,15
-Telangana,01,16
-Telangana,02,28
-Telangana,03,31
-Telangana,04,30
-Telangana,05,15
-Tripura,01,16
-Tripura,02,28
-Tripura,03,31
-Tripura,04,30
-Tripura,05,15
-Uttar Pradesh,01,16
-Uttar Pradesh,02,28
-Uttar Pradesh,03,31
-Uttar Pradesh,04,30
-Uttar Pradesh,05,15
-Uttarakhand,01,16
-Uttarakhand,02,28
-Uttarakhand,03,31
-Uttarakhand,04,30
-Uttarakhand,05,15
-West Bengal,01,16
-West Bengal,02,28
-West Bengal,03,31
-West Bengal,04,30
-West Bengal,05,15
+State,month,Male(Individuals Vaccinated)
+Andaman and Nicobar Islands,01,4887.0
+Andaman and Nicobar Islands,02,42881.0
+Andaman and Nicobar Islands,03,225898.0
+Andaman and Nicobar Islands,04,913511.0
+Andaman and Nicobar Islands,05,788711.0
+Andhra Pradesh,01,332375.0
+Andhra Pradesh,02,4221444.0
+Andhra Pradesh,03,19367462.0
+Andhra Pradesh,04,57637379.0
+Andhra Pradesh,05,41249537.0
+Arunachal Pradesh,01,11064.0
+Arunachal Pradesh,02,174342.0
+Arunachal Pradesh,03,938509.0
+Arunachal Pradesh,04,2162718.0
+Arunachal Pradesh,05,1733770.0
+Assam,01,52621.0
+Assam,02,1085605.0
+Assam,03,10162416.0
+Assam,04,22546701.0
+Assam,05,18926961.0
+Bihar,01,183718.0
+Bihar,02,4494156.0
+Bihar,03,19660395.0
+Bihar,04,68127887.0
+Bihar,05,50317692.0
+Chandigarh,01,8411.0
+Chandigarh,02,151165.0
+Chandigarh,03,887763.0
+Chandigarh,04,1992620.0
+Chandigarh,05,1586585.0
+Chhattisgarh,01,103255.0
+Chhattisgarh,02,2815623.0
+Chhattisgarh,03,14119304.0
+Chhattisgarh,04,57120788.0
+Chhattisgarh,05,36341924.0
+Dadra and Nagar Haveli and Daman and Diu,01,2128.0
+Dadra and Nagar Haveli and Daman and Diu,02,61761.0
+Dadra and Nagar Haveli and Daman and Diu,03,91903.0
+Dadra and Nagar Haveli and Daman and Diu,04,786219.0
+Dadra and Nagar Haveli and Daman and Diu,05,240594.0
+Delhi,01,148598.0
+Delhi,02,3892283.0
+Delhi,03,13703829.0
+Delhi,04,34328982.0
+Delhi,05,26277567.0
+Goa,01,7320.0
+Goa,02,167965.0
+Goa,03,1057809.0
+Goa,04,2777654.0
+Goa,05,2320181.0
+Gujarat,01,522669.0
+Gujarat,02,10365554.0
+Gujarat,03,42850899.0
+Gujarat,04,132403307.0
+Gujarat,05,85291181.0
+Haryana,01,335240.0
+Haryana,02,2637418.0
+Haryana,03,11057882.0
+Haryana,04,38053216.0
+Haryana,05,28101931.0
+Himachal Pradesh,01,29205.0
+Himachal Pradesh,02,818180.0
+Himachal Pradesh,03,3787350.0
+Himachal Pradesh,04,15031673.0
+Himachal Pradesh,05,12242878.0
+India,01,6436622.0
+India,02,103753508.0
+India,03,507062118.0
+India,04,1523758954.0
+India,05,1048243112.0
+Jammu and Kashmir,01,63857.0
+Jammu and Kashmir,02,2536200.0
+Jammu and Kashmir,03,9553540.0
+Jammu and Kashmir,04,24160822.0
+Jammu and Kashmir,05,19280259.0
+Jharkhand,01,41129.0
+Jharkhand,02,2491125.0
+Jharkhand,03,11685795.0
+Jharkhand,04,33285591.0
+Jharkhand,05,21124787.0
+Karnataka,01,587913.0
+Karnataka,02,5087906.0
+Karnataka,03,25022047.0
+Karnataka,04,86019613.0
+Karnataka,05,61771890.0
+Kerala,01,179841.0
+Kerala,02,2983772.0
+Kerala,03,22345430.0
+Kerala,04,65028756.0
+Kerala,05,42153916.0
+Ladakh,01,2060.0
+Ladakh,02,61304.0
+Ladakh,03,537917.0
+Ladakh,04,1068135.0
+Ladakh,05,669052.0
+Lakshadweep,01,7952.0
+Lakshadweep,02,30118.0
+Lakshadweep,03,70778.0
+Lakshadweep,04,224390.0
+Lakshadweep,05,170707.0
+Madhya Pradesh,01,456890.0
+Madhya Pradesh,02,6852617.0
+Madhya Pradesh,03,27010571.0
+Madhya Pradesh,04,91803597.0
+Madhya Pradesh,05,57855572.0
+Maharashtra,01,545805.0
+Maharashtra,02,9154683.0
+Maharashtra,03,50253704.0
+Maharashtra,04,163987481.0
+Maharashtra,05,117981016.0
+Manipur,01,9514.0
+Manipur,02,307351.0
+Manipur,03,1429277.0
+Manipur,04,2148027.0
+Manipur,05,2242101.0
+Meghalaya,01,6207.0
+Meghalaya,02,253293.0
+Meghalaya,03,1094053.0
+Meghalaya,04,2008358.0
+Meghalaya,05,2123322.0
+Mizoram,01,14044.0
+Mizoram,02,153979.0
+Mizoram,03,841282.0
+Mizoram,04,1830486.0
+Mizoram,05,1725479.0
+Nagaland,01,11344.0
+Nagaland,02,253897.0
+Nagaland,03,974186.0
+Nagaland,04,1941157.0
+Nagaland,05,1526559.0
+Odisha,01,344522.0
+Odisha,02,3890555.0
+Odisha,03,17846498.0
+Odisha,04,61032388.0
+Odisha,05,39739336.0
+Puducherry,01,7085.0
+Puducherry,02,82064.0
+Puducherry,03,547599.0
+Puducherry,04,1914560.0
+Puducherry,05,1337256.0
+Punjab,01,153085.0
+Punjab,02,1653308.0
+Punjab,03,8112288.0
+Punjab,04,34231984.0
+Punjab,05,27762514.0
+Rajasthan,01,783353.0
+Rajasthan,02,9664478.0
+Rajasthan,03,49119610.0
+Rajasthan,04,133008583.0
+Rajasthan,05,87802325.0
+Sikkim,01,3618.0
+Sikkim,02,116995.0
+Sikkim,03,741770.0
+Sikkim,04,1942390.0
+Sikkim,05,1326537.0
+Tamil Nadu,01,224643.0
+Tamil Nadu,02,2245984.0
+Tamil Nadu,03,21099110.0
+Tamil Nadu,04,57386922.0
+Tamil Nadu,05,38244339.0
+Telangana,01,256739.0
+Telangana,02,3185703.0
+Telangana,03,10137555.0
+Telangana,04,38097675.0
+Telangana,05,33103655.0
+Tripura,01,22883.0
+Tripura,02,879605.0
+Tripura,03,4411989.0
+Tripura,04,11737548.0
+Tripura,05,7321310.0
+Uttar Pradesh,01,588686.0
+Uttar Pradesh,02,12460123.0
+Uttar Pradesh,03,51013445.0
+Uttar Pradesh,04,139312856.0
+Uttar Pradesh,05,92444377.0
+Uttarakhand,01,46724.0
+Uttarakhand,02,1517247.0
+Uttarakhand,03,6118080.0
+Uttarakhand,04,18687393.0
+Uttarakhand,05,13539577.0
+West Bengal,01,414386.0
+West Bengal,02,6959098.0
+West Bengal,03,48064670.0
+West Bengal,04,116653942.0
+West Bengal,05,71073348.0
